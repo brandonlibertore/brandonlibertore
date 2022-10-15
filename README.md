@@ -15,8 +15,6 @@
   Check Out My Tech Stack!
 </h2>
 
-
-
 <div display="flex" align="center">
   <img width=40px src="https://user-images.githubusercontent.com/92832907/195968372-c48c0cf1-4557-4e3a-b4b1-bf5f47a09e1c.svg">
   <img width=40px src="https://user-images.githubusercontent.com/92832907/195968498-5b9a2646-c6f9-4afb-b789-9a0ff516b2c2.svg">
@@ -29,3 +27,15 @@
   <img width=40px src="https://user-images.githubusercontent.com/92832907/195968639-ad17319b-1666-4eba-a423-e18959bb8ad2.svg">
   <img width=40px src="https://user-images.githubusercontent.com/92832907/195968640-54fe7de5-cdd1-444d-9465-09ed9b7f9714.svg">
 </div>
+
+<h2 align="center">
+  Connect with me!
+ </h2>
+
+<div display="flex" align="center">
+  
+[![test](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](brandon@brandonlibertore.net)
+[![test](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonlibertore/)
+[![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https:brandolibertore.net)
+  
+ </div>
