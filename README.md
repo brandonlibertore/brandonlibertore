@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  Aspiring Frontend/Fullstack Engineer with a specialization in Computer Science from UC Irvine
+  Software Developer at Basis with a specialization in Computer Science from the University of California, Irvine
 </h3>
 
 <p align="center">
